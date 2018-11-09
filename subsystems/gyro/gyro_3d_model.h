@@ -1,3 +1,11 @@
+/*
+ * gyro_3d_model.h
+ *
+ *  Created on: Nov 8, 2018
+ *  Copyright © 2018-2080 Ilja Karasev. All rights reserved.
+ *     License: GNU GPL 3
+ */
+
 #ifndef GYRO3DMODEL_H
 #define GYRO3DMODEL_H
 

@@ -1,3 +1,11 @@
+/*
+ * chart.cpp
+ *
+ *  Created on: Nov 8, 2018
+ *  Copyright © 2018-2080 Ilja Karasev. All rights reserved.
+ *     License: GNU GPL 3
+ */
+
 #include <ui/controls/chart/chart.h>
 #include "line_node.h"
 #include "grid_node.h"

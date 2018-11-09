@@ -1,3 +1,11 @@
+/*
+ * gyro_frame.h
+ *
+ *  Created on: Nov 8, 2018
+ *  Copyright © 2018-2080 Ilja Karasev. All rights reserved.
+ *     License: GNU GPL 3
+ */
+
 #ifndef GYROFRAME
 #define GYROFRAME
 
